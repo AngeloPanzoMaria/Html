@@ -66,6 +66,7 @@ div.normal  {
 }
 
 div.imagem{
+    height: 300px;
     background-attachment: fixed ;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.473);
 }
