@@ -69,6 +69,7 @@ div.imagem{
     height: 300px;
     background-attachment: fixed ;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.473);
+    background-size: cover;
 }
 
 div.imagem > p {
@@ -88,11 +89,6 @@ div#img1 {
 div#img2 {
     background-image: url(../imagem/angelo1.jpeg);
     background-position: top center;
-}
-
-td {
-    border: 1px solid black;
-    padding: 10px;
 }
 
 footer{
